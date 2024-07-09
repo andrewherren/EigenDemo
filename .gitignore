@@ -35,3 +35,4 @@ build/
 # IDE files / directories
 *.vscode/
 *.vs/
+*xcode/

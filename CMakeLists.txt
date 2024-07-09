@@ -9,7 +9,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 cmake_minimum_required(VERSION 3.16)
 
 # Define the project
-project(stochtree LANGUAGES CXX)
+project(eigendemo LANGUAGES CXX)
 
 # Eigen header file directory
 set(EIGEN_HEADER_DIR ${PROJECT_SOURCE_DIR}/deps/eigen)
