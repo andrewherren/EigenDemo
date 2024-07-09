@@ -16,7 +16,7 @@ int main() {
 
   // Initialize Eigen matrix
   int32_t n = 1000000;
-  int32_t p = 10;
+  int32_t p = 100;
   Eigen::MatrixXd mat(n, p);
   
   // Generate data
