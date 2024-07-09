@@ -1,4 +1,5 @@
 #include <Eigen/Dense>
+#include <numeric>
 #include <random>
 
 void argsort(Eigen::MatrixXd& input_matrix, int32_t col_num, std::vector<int32_t>& output) {
